@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "imagen": "./images/imagproductos/dis001.jpg",
+    "nombre": "Disfraz1",
+    "precio": 220
+  },
+  {
+    "id": 2,
+    "imagen": "./images/imagproductos/dis002.jpg",
+    "nombre": "Disfraz2",
+    "precio": 200
+  },
+  {
+    "id": 3,
+    "imagen": "./images/imagproductos/dis003.jpg",
+    "nombre": "Disfraz3",
+    "precio": 280
+  },
+  {
+    "id": 4,
+    "imagen": "./images/imagproductos/dis004.jpg",
+    "nombre": "Disfraz4",
+    "precio": 350
+  },
+  {
+    "id": 5,
+    "imagen": "./images/imagproductos/dis005.jpg",
+    "nombre": "Disfraz5",
+    "precio": 320
+  },
+  {
+    "id": 6,
+    "imagen": "./images/imagproductos/dis006.jpg",
+    "nombre": "Disfraz6",
+    "precio": 140
+  },
+  {
+    "id": 7,
+    "imagen": "./images/imagproductos/dis007.jpg",
+    "nombre": "Disfraz7",
+    "precio": 270
+  },
+  {
+    "id": 8,
+    "imagen": "🍉",
+    "nombre": "Sandias",
+    "precio": 200
+  },
+  {
+    "id": 9,
+    "imagen": "🍑",
+    "nombre": "Duraznos",
+    "precio": 310
+  },
+  {
+    "id": 10,
+    "imagen": "🫐",
+    "nombre": "Arandanos",
+    "precio": 650
+  },
+  {
+    "id": 11,
+    "imagen": "🥭",
+    "nombre": "Mango",
+    "precio": 290
+  },
+  {
+    "id": 12,
+    "imagen": "🍇",
+    "nombre": "Uvas",
+    "precio": 700
+  },
+  {
+    "id": 13,
+    "imagen": "🍐",
+    "nombre": "Peras",
+    "precio": 320
+  },
+  {
+    "id": 14,
+    "imagen": "🍒",
+    "nombre": "Cerezas",
+    "precio": 1100
+  },
+  {
+    "id": 15,
+    "imagen": "🍓",
+    "nombre": "Frutillas",
+    "precio": 600
+  },
+  {
+    "id": 16,
+    "imagen": "🍋",
+    "nombre": "Limones",
+    "precio": 260
+  },
+  {
+    "id": 17,
+    "imagen": "/images/001.jpg",
+    "nombre": "LCD 40 ",
+    "precio": 260
+  },
+  {
+    "nombre": "bebe",
+    "talle": "3",
+    "precio": "6567",
+    "stock": "4",
+    "imagen": "/images/imagproductos/imag018.jpg"
+  },
+  {
+    "nombre": "bebe",
+    "talle": "3",
+    "precio": "333",
+    "stock": "3",
+    "imagen": "/images/imagproductos/imag019.jpg"
+  },
+  {
+    "nombre": "bebe",
+    "talle": "3",
+    "precio": "656",
+    "stock": "4",
+    "imagen": "/images/imagproductos/imag020.jpg"
+  },
+  {
+    "nombre": "bebe",
+    "talle": "3",
+    "precio": "222",
+    "stock": "2",
+    "imagen": "/images/imagproductos/imag021.jpg"
+  },
+  {
+    "nombre": "bebe",
+    "talle": "3",
+    "precio": 233,
+    "stock": 3,
+    "imagen": "/images/imagproductos/dis022.jpg"
+  }
+]
